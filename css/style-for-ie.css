@@ -1,0 +1,31 @@
+@font-face
+{
+  font-family: 'Bebas';
+  font-weight: normal;
+  font-style: normal;
+
+  src: url('../fonts/BebasNeue-Regular.eot?') format('embedded-opentype');
+}
+
+@font-face
+{
+  font-family: 'Bebas';
+  font-weight: bold;
+  font-style: normal;
+
+  src: url('../fonts/BebasNeue-bold.eot?') format('embedded-opentype');
+}
+
+
+.footer-box
+{
+  margin: 0 5px;
+}
+
+.fb3
+{
+  margin-right: 6px;
+}
+.slide-desc {
+  background-color: #e8663c;
+}
