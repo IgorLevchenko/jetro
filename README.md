@@ -4,3 +4,5 @@
 Слайдер jquery cycle
 
 Портфолио mixitup
+
+![alt text](https://github.com/IgorLevchenko/jetro/blob/master/preview.jpg "preview")
